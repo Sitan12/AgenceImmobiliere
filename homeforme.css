@@ -1,0 +1,337 @@
+.BG1{
+    background-image: url(images/image1.jpeg);
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+}
+.cadre1{
+    position: absolute;
+width: 771px;
+height: 249px;
+left: 144px;
+top: 303px;
+}
+.titre1{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 45px;
+line-height: 55px;
+color: #336CA8;
+}
+.texte1{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 37px;
+
+color: #FFFDFD;
+}
+.bouton{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 37px;
+padding: 5px 5px 5px 15px;
+color: #FFFFFF;
+background: #336CA8;
+}
+.sec1{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.titre2{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    color: #336CA8; 
+}
+.texte2{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: #336CA8;
+}
+.BG2{
+background: rgba(23, 23, 23, 0.2);
+}
+.NP{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: #336CA8;
+}
+.eclipse{
+    height: 100px;
+    width: 100px;
+    border: 2px solid #336CA8;
+    padding: 3px;
+box-sizing: border-box;
+}
+.NDP{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+color: #FFFFFF;
+}
+.img{
+  
+width: 450px;
+height: 200px;
+
+}
+.img2{
+    width: 250px;
+height: 200px;
+}
+.sec2{
+    width: 100%;
+ height: 300px;
+ margin-top: 50px;
+}
+.timer{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+color: #000000;
+border: 2px solid #336CA8;
+padding: 20px;
+height: 130px; width: 130px;
+box-sizing: border-box;
+}
+.texte{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+align-items: center;
+color: #336CA8;
+}
+.line{
+    height: 0px;
+ width: 75px;
+border: 3px solid #336CA8;
+background-color: #336CA8;
+}
+.para{
+    font-weight: 500;
+font-size: 15px;
+line-height: 24px;
+text-align: center;
+color: #000000;
+
+}
+.rect2{
+    position: absolute;
+    width: 300px;
+height: 250px;
+left: 150px;
+top: 210px;
+}
+.rect3{
+    width: 300px;
+height: 350px;
+margin-left: 250px;
+margin-top: 20px;
+}
+.p1{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #336CA8;
+}
+.p2{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #000000;
+}
+.p3{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 20px;
+display: flex;
+align-items: center;
+letter-spacing: 0.05em;
+color: #000000;
+
+}
+.bouton2{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 20px;
+padding: 10px;
+color: #FFFFFF;
+background: #336CA8;
+}
+.produit{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+color: #336CA8;
+}
+.produit1{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+letter-spacing: 0.5em;
+text-transform: uppercase;
+color: #000000;
+
+}
+.rect4{
+    position: absolute;
+    width: 650px;
+    height: 372px;
+    left: 0px;
+}
+.generate{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-transform: uppercase;
+color: #000000;
+
+}
+.texteLorem{
+    font-family: Montserrat;
+font-style: normal;
+font-size: 5px;
+align-items: center;
+text-align: justify;
+text-indent: 3px;
+text-transform: capitalize;
+color: #000000;
+
+}
+.titreproduit{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 24px;
+display: flex;
+align-items: center;
+letter-spacing: 0.2em;
+text-transform: uppercase;
+color: #000000;
+}
+.mettre{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: justify;
+text-indent: 3px;
+text-transform: capitalize;
+color: #000000;
+border: 4px solid #336CA8;
+box-sizing: border-box;
+padding: 15px;
+height: 124;
+}
+.bouton3{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 15px;
+padding: 10px;
+color: #FFFFFF;
+background: #336CA8;
+}
+.nosproduits{
+    font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 30px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #000000;
+}
+.Categorie{
+    
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 10px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #000000;
+
+}
+.image{
+  
+    width: 250px;
+    height: 220px;
+}
+.nomImmeuble{
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+color: #000000;
+margin-top: 20px;
+}
+.logo{
+    width: 200px;
+    height: 100px;
+}
+.Part{
+    font-family: Montserrat;
+font-style: normal;
+font-size: 25px;
+font-weight: bold;
+color: #000000;
+}
+.txt{
+    text-align: justify; font-size: 15px;
+}
+.icone{
+    display: block; /* Make the links appear below each other instead of side-by-side */
+    padding: 25px; /* Add some padding */
+    font-size: 36px; /* Increased font-size */
+    color: #FFFDFD;
+    border: 2px solid #336CA8;
+    background: #336CA8;
+    height: 90px;
+    width: 90px;
+}
